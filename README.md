@@ -1,5 +1,7 @@
 # Frontend Mentor - Easybank landing page
 
+## Deploy Link https://easy-bank-landing-page-three.vercel.app/
+
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
